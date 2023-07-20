@@ -15,7 +15,7 @@ Além de contar os episódios que o usuário está assistindo no momento, foi ad
 
 #### Deploy
 
-Preencha aqui a URL para acesso ao site publicado
+[Preencha aqui a URL para acesso ao site publicado](https://master--stellular-gelato-16f7db.netlify.app/)
 
 
 #### Desenvolvedor(es)

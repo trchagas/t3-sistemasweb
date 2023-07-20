@@ -1,4 +1,4 @@
-const MongoAPI = "http://localhost:3000"
+const MongoAPI = "https://fragile-pig-hose.cyclic.app"
 
 async function getReviews(){
     const reviewsList = document.querySelector('#reviews-list');

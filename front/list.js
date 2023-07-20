@@ -1,4 +1,4 @@
-const MongoAPI = "http://localhost:3000"
+const MongoAPI = "https://fragile-pig-hose.cyclic.app"
 
 let addedAnimes = JSON.parse(localStorage.getItem("addedAnimes"))
 

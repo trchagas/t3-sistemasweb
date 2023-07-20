@@ -1,0 +1,103 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  form input[type="text"] {
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  form input[type="submit"] {
+    margin-top: 15px;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #anime-details {
+    margin-top: 2rem;
+  }
+  
+  #anime-details img {
+    max-width: 100%;
+  }
+
+.sidebar {
+    top: 20%;
+    position: sticky;
+    height: 100%;
+    width:20%;
+    background-color: #224187;
+}
+
+.sidebar-container {
+    width: 100%;
+}
+
+.title {
+    margin-left: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+.navitem{
+    padding-left: 15px;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+
+.selected {
+    padding-left: 15px;
+    width: 100%;
+    text-decoration: none;
+    background: white;
+    color:#224187;
+}
+
+.navitem:hover{
+    background: white;
+    color:#224187;
+}
+
+.main{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.card-margin{
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.scroll {
+  max-height: 150px;
+  overflow-y: auto;
+}

@@ -39,9 +39,7 @@ VERCEL - back
 
 #### Ambiente de desenvolvimento
 
-Visual Studio Code\n
-Git Bash\n
-MongoDB Atlas
+Visual Studio Code, Git Bash, MongoDB Atlas
 
 #### Bastidores
 

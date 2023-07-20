@@ -45,9 +45,11 @@ Visual Studio Code, Git Bash, MongoDB Atlas
 
 #### Bastidores
 
-No projeto foi aprendido na prática a programação em baixo nível de componentes dinâmicos em Javascript.
-Também foi aprendido como realizar a conexão entre frontend e backend sem o uso de dependências por parte do front.
-Tive uma nova experiência ao programar o Model/View/Controller voltado ao MongoDB
+Durante o projeto foi aprendido:
+  - Programação em Javascript "vanilla" de componentes dinâmicos.
+  - Como realizar a conexão entre frontend e backend sem o uso de dependências por parte do front.
+  - Programar o Model/View/Controller voltado ao MongoDB
+  - Colocar o front e o back em produção utilizando ferramentas de terceiros (netlify e cyclic)
 
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a

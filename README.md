@@ -35,7 +35,7 @@ MongoDB
 
 Deploy:
 
-Github Pages - front
+Netlify - front
 
 Cyclic - back
 

@@ -35,7 +35,9 @@ MongoDB
 
 Deploy:
 
-VERCEL - back
+Github Pages - front
+
+Cyclic - back
 
 #### Ambiente de desenvolvimento
 
